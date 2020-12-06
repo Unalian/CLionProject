@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/binary_Tree_Inverse.h
+iostream
+-
+queue
+-
+
+/Users/una/newroot/CLionProjects/leetcode/main.cpp
+iostream
+-
+binary_Tree_Inverse.h
+/Users/una/newroot/CLionProjects/leetcode/binary_Tree_Inverse.h
+
